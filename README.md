@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <!-- great-gatsby -->
 <!-- tokyonight -->
+<!-- github_dark -->
 <!-- react-dark -->
 <!-- radical -->
 
@@ -34,6 +35,6 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sansjha4900&show_icons=true&locale=en&layout=compact&bg_color=000000&hide_border=1&title_color=2EDDD5" alt="sansjha4900" /></p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sansjha4900&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sansjha4900&theme=tokyonight)
 
 ![Uzair's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sansjha4900&theme=react-dark&hide_border=true&area=true)
