@@ -26,10 +26,6 @@ Here are some ideas to get you started:
 
 [![Sanskriti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sansjha4900&hide=issues&count_private=true&show_icons=true&theme=react-dark&hide_border=true&area=true)](https://github.com/sansjha4900/github-readme-stats)
 
-<a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sansjha4900&show_icons=true&theme=theme=react-dark&hide_border=true&area=true&line_height=27" alt="Sanskriti's GitHub Stats"/>
-</a>
-
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sansjha4900&layout=compact&theme=react-dark&hide_border=true&area=true)](https://github.com/sansjha4900/github-readme-stats) -->
 
