@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sansjha4900&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
 
-[![Sanskriti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sansjha4900&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/sansjha4900/github-readme-stats)
+[![Sanskriti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sansjha4900&hide=issues&count_private=true&show_icons=true&theme=react-dark&hide_border=true&area=true)](https://github.com/sansjha4900/github-readme-stats)
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sansjha4900&layout=compact&theme=react-dark&hide_border=true&area=true)](https://github.com/sansjha4900/github-readme-stats) -->
