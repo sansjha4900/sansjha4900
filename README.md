@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 [![GitHub vermakhushboo](https://img.shields.io/github/followers/sansjha4900?label=follow&style=social)](https://github.com/sansjha4900)
-[![Linkedin: Khushboo Verma](https://img.shields.io/badge/-Sanskriti%20Jha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/verma-khushboo/)](https://www.linkedin.com/in/sanskriti-jha/)
+[![Linkedin: Khushboo Verma](https://img.shields.io/badge/-Sanskriti%20Jha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanskriti-jha/)](https://www.linkedin.com/in/sanskriti-jha/)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=sansjha4900&left_color=gray&right_color=blue)
 
 
