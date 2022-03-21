@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <!-- great-gatsby -->
 <!-- tokyonight -->
 <!-- react-dark -->
+<!-- radical -->
 
 [![GitHub sansjha4900](https://img.shields.io/github/followers/sansjha4900?label=follow&style=social)](https://github.com/sansjha4900)
 [![Linkedin: Sanskriti Jha](https://img.shields.io/badge/-Sanskriti%20Jha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanskriti-jha/)](https://www.linkedin.com/in/sanskriti-jha/)
@@ -25,7 +26,7 @@ Here are some ideas to get you started:
 
 ![](https://i.imgur.com/waxVImv.png)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sansjha4900&theme=react-dark&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sansjha4900&theme=radical&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
 
 [![Sanskriti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sansjha4900&hide=issues&count_private=true&show_icons=true&theme=radical&hide_border=true&area=true)](https://github.com/sansjha4900/github-readme-stats)
 <!-- 
