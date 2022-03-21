@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 [![Sanskriti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sansjha4900&hide=issues&count_private=true&show_icons=true&theme=great-gatsby&hide_border=true&area=true)](https://github.com/sansjha4900/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sansjha4900&layout=compact&theme=react-dark&hide_border=true&area=true)](https://github.com/sansjha4900/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sansjha4900&layout=compact&theme=tokyonight&hide_border=true&area=true)](https://github.com/sansjha4900/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sansjha4900&show_icons=true&locale=en&layout=compact&bg_color=000000&hide_border=1&title_color=2EDDD5" alt="sansjha4900" /></p>
 
