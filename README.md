@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Linkedin: Sanskriti Jha](https://img.shields.io/badge/-Sanskriti%20Jha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanskriti-jha/)](https://www.linkedin.com/in/sanskriti-jha/)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=sansjha4900&left_color=gray&right_color=blue)
 
-<br>
+![](https://i.imgur.com/waxVImv.png)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sansjha4900&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
 
