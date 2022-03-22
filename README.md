@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- radical -->
 
 [![GitHub sansjha4900](https://img.shields.io/github/followers/sansjha4900?label=follow&style=social)](https://github.com/sansjha4900)
-[![Linkedin: Sanskriti Jha](https://img.shields.io/badge/-Sanskriti%20Jha-blue?style=flat-square&logo=Linkedin&logoColor=white&<a "link=https://www.linkedin.com/in/sanskriti-jha/"></a>)](https://www.linkedin.com/in/sanskriti-jha/)
+[![Linkedin: Sanskriti Jha](https://img.shields.io/badge/-Sanskriti%20Jha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanskriti-jha/)](https://www.linkedin.com/in/sanskriti-jha/)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=sansjha4900&left_color=gray&right_color=blue)
 
 ![](https://i.imgur.com/waxVImv.png)
