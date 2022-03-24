@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sansjha4900&theme=github_dark&)
 
-![Uzair's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sansjha4900&theme=react-dark&hide_border=true&area=true)
+![Sanskriti's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sansjha4900&theme=react-dark&hide_border=true&area=true)
