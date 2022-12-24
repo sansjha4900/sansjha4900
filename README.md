@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![GitHub sansjha4900](https://img.shields.io/github/followers/sansjha4900?label=follow&style=social)](https://github.com/sansjha4900)
 [![Linkedin: Sanskriti Jha](https://img.shields.io/badge/-Sanskriti%20Jha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanskriti-jha/)](https://www.linkedin.com/in/sanskriti-jha/)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=sansjha4900&left_color=gray&right_color=blue)
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-linkedin-3949AB?logo=linkedin)](https://www.linkedin.com/in/sanskriti-jha/)
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-linkedin-3949AB?logo=linkedin)](https://github.com/sansjha4900)
 
 ![](https://i.imgur.com/waxVImv.png)
 
